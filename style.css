@@ -9,22 +9,22 @@
     #nav{display: flex;flex-direction: row;width: 95vw;margin-top: 3%;}
     #title{margin-left: 10%;font-size: 26px;}
     #social{margin-left: 50%;width: 20%;}
-    #social a{margin-left: 3em;}
+    #social a{margin-left: 2rem;}
     #rings{position:absolute;top: 10em;z-index: -1;right: 75%;}
-    #heading{width: 40vw;margin-left: 15%;margin-top:10%;font-size: 62px;font-weight: 700;z-index: 1;position: absolute;background: transparent;}
+    #heading{width: 70vw;margin-left: 15%;margin-top:10%;font-size: 62px;font-weight: 700;z-index: 1;position: absolute;background: transparent;}
     #heading #name{font-size: 62px;text-underline-offset: 10px;text-decoration-thickness: 4px;}
-    #bio{margin-top: 23%;margin-left: 15%;position: absolute;}
-    #contact{margin-top: 30%;position: absolute;margin-left: 15%;height: 5vh;}
+    #bio{margin-top: 26%;margin-left: 15%;position: absolute;}
+    #contact{margin-top: 33%;position: absolute;margin-left: 15%;height: 5vh;}
     #contact u{text-underline-offset:15px;}
     #line{margin-top: 40%;position: absolute;width: 70vw;margin-left: 15%;border: 0.1px solid #ddd;}
     #skills{position: absolute;margin-top: 45%;display: flex;flex-direction: row;flex-wrap: wrap;width: 80vw;margin-left: 12%;}
     #skills div{width: 25%;margin-left: 2%;}
     #skills h1{font-size: 32px;font-weight: 700;}
     #rings-2{position: absolute;left: 80%;margin-top:60%;}
-    #projects{margin-top: 80%;position: absolute;width: 80vw;margin-left: 15%;display: flex;}
+    #projects{margin-top: 95%;position: absolute;width: 80vw;margin-left: 15%;display: flex;}
     #projects h1{font-size: 52px;font-weight: 700;margin: 0%;}
     #projects a{margin-left: 60%;padding-top: 1em;text-underline-offset: 15px;}
-    #allProjects{position: absolute;margin-top: 85%;margin-left: 10%;display: flex;flex-direction: row;flex-wrap: wrap;width: 80vw;}
+    #allProjects{position: absolute;margin-top: 105%;margin-left: 10%;display: flex;flex-direction: row;flex-wrap: wrap;width: 80vw;}
     #allProjects div{width: 40%;margin-left: 5%;text-align: center;margin-top: 1em;}
     #allProjects p{color: #C5C6D0;transition: all 0.4s;}
     #allProjects p:hover{color:#1ddbac;}
