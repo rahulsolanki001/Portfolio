@@ -17,10 +17,10 @@
     #contact{margin-top: 30%;position: absolute;margin-left: 15%;height: 5vh;}
     #contact u{text-underline-offset:15px;}
     #line{margin-top: 40%;position: absolute;width: 70vw;margin-left: 15%;border: 0.1px solid #ddd;}
-    #skills{position: absolute;margin-top: 45%;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: space-evenly;width: 80vw;margin-left: 12%;}
+    #skills{position: absolute;margin-top: 45%;display: flex;flex-direction: row;flex-wrap: wrap;width: 80vw;margin-left: 12%;}
     #skills div{width: 25%;margin-left: 2%;}
     #skills h1{font-size: 32px;font-weight: 700;}
-    #rings-2{position: absolute;left: 80%;margin-top:55%;}
+    #rings-2{position: absolute;left: 80%;margin-top:60%;}
     #projects{margin-top: 75%;position: absolute;width: 80vw;margin-left: 15%;display: flex;}
     #projects h1{font-size: 52px;font-weight: 700;margin: 0%;}
     #projects a{margin-left: 60%;padding-top: 1em;text-underline-offset: 15px;}
